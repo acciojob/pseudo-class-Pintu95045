@@ -9,7 +9,7 @@
   color: #f00;
   font-size: 20px;
   position: absolute;
-  left:-130px; /* Adjust the top position as needed */
+  left:-125px; /* Adjust the top position as needed */
 }
 
 #container::after {
